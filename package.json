@@ -1,0 +1,24 @@
+{
+  "name": "misc-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "misc-tools.js",
+  "scripts": {
+    "test": "echo NO TESTS"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asalonen/misc-tools.git"
+  },
+  "author": "Antti Salonen <as.salonen@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asalonen/misc-tools/issues"
+  },
+  "homepage": "https://github.com/asalonen/misc-tools#readme",
+  "dependencies": {
+    "deasync": "^0.1.8",
+    "lodash": "^4.16.4",
+    "request": "^2.76.0"
+  }
+}
